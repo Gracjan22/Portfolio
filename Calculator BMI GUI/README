@@ -1,1 +1,59 @@
+# BMI Calculator Application
 
+## Overview
+
+The BMI Calculator is a user-friendly graphical application designed to help users calculate their Body Mass Index (BMI) based on their weight and height. The application supports two measurement systems: Metric (Kg/Cm) and Imperial (Lbs/Ft). Users can also view BMI standards to understand their weight category.
+
+## Features
+
+- **Measurement Options**: Users can select between two measurement options (Kg/Cm and Lbs/Ft) to calculate their BMI.
+- **BMI Calculation**: Users can input their weight and height to receive an accurate BMI calculation and corresponding category.
+- **BMI Standards Display**: A dedicated screen provides information about BMI standards, including categories from underweight to obesity.
+- **User-Friendly Interface**: The application features an intuitive interface built with Tkinter, making it easy for users of all ages to navigate and use.
+
+## Technologies Used
+
+- **Python**: The application is built using Python 3, utilizing the Tkinter library for GUI development.
+- **Tkinter**: A built-in library for creating desktop applications in Python.
+
+## Installation
+
+1. Ensure you have Python 3.x installed on your machine.
+2. Clone this repository using the following command:
+   ```bash
+   git clone <repository-url>
+   ```
+3. Navigate to the project directory:
+   ```bash
+   cd <project-directory>
+   ```
+4. Run the application:
+   ```bash
+   python BMIGUI.py
+   ```
+
+## Usage
+
+1. **Select Measurement System**: Choose between "Kg/Cm" or "Lbs/Ft" from the dropdown menu.
+2. **Input Weight and Height**: Enter your weight and height in the provided fields.
+3. **Calculate BMI**: Click the "Calculate" button to see your BMI value and corresponding category.
+4. **View BMI Standards**: Click the "BMI Standards" button to view the classification of BMI values.
+5. **Reset**: Click the "Reset" button to clear input fields for a new calculation.
+6. **Exit**: Click the "Exit" button to close the application.
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- Thank you to the open-source community for providing valuable libraries and resources that made this project possible.
+
+---
+
+Feel free to customize the sections and add any additional information you think might be useful!
